@@ -1,0 +1,123 @@
+body {
+    margin: 10px auto;
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+    width: 550px;
+    height: 729px;
+}
+
+.container {
+    width: 552px;
+    margin: 10px auto;
+    background: #1F2937;
+}
+
+.head-container {
+    display: flex;
+    flex-direction: column;
+    width: 550px;
+    height: 285px;
+    background: #6943FF;
+    padding: 1px;
+    margin: 0 auto 10px;
+}
+
+.title {
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 38px; /* 135.714% */
+    letter-spacing: -0.84px;
+    margin: 33px auto 0;
+}
+
+
+#input-el {
+    width: 117px;
+    height: 83px;
+    border-radius: 5px;
+    border: 2px solid #B295FF;
+    margin: 30px auto 0;
+    background: #6943FF;
+}
+
+.input-props {
+    width: 211px;
+    height: 51.225px;
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 58px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 24.393px;
+    border: none;
+}
+
+#convert-btn {
+    width: 117px;
+    height: 42px;
+    margin: 25px auto;
+    padding: 9px 27.5px;
+    align-items: center;
+    border-radius: 5px;
+    background:  #FFF;
+    border: none;
+    box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.05);
+}
+
+.btn-props {
+    color: #3D3D3D;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px; 
+}
+
+.body-container {
+    background: #1F2937;
+    width: 550px;
+    height: 444px;
+    margin: 0 auto 20px;
+    padding: 1px;
+}
+
+.unit-container{
+    width: 500px;
+    height: 108px;
+    border-radius: 4.681px 0px 0px 0px;
+    background: #273549;
+    margin: 25px auto;
+    padding: 1px;
+}
+
+.sub-title {
+    width: 346px;
+    height: 25px;
+    margin: 31px auto 0;
+    color: #CCC1FF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 20px;
+}
+
+.result-props {
+    width: 346px;
+    height: 25px;
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+    margin: 9px auto;
+    padding: 1px;
+}
